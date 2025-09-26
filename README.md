@@ -1,2 +1,2 @@
-# data-analyst-task2-superstore
-“Internship Task 2 – Data Visualization &amp; Storytelling on Superstore dataset.”
+# data-analyst-task1-superstore
+“Internship Task1 – Data Visualization &amp; Storytelling on Superstore dataset.”
